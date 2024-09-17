@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/connector.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/dhbcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/commons-dbcp-1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/commons-dbcp-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/commons-dbcp-1.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/axiom-impl-1.2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/rmm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/geronimo-stax-api_1.0_spec-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/jmqi-7.5.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/jta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/geronimo-activation_1.1_spec-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/mqjms-7.5.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/commons-pool-1.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/commonservices.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/wstx-asl-3.2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/fscontext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/axiom-dom-1.2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/mq-7.5.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/axiom-c14n-1.2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/axiom-api-1.2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/jndi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/providerutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/dhbcore-7.5.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/geronimo-javamail_1.4_spec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/jaxen-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/headers-7.5.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DBO_AXIOMA_MQ_Stub/lib/commons-lang-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
