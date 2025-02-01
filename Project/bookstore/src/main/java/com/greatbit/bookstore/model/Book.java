@@ -1,19 +1,29 @@
 package com.greatbit.bookstore.model;
 
+
+
 public class Book {
     private String id;
+    private Integer pages;
     private String name;
     private String author;
-    private int pages;
-
-    public Book(String id, String name, String author, int pages) {
-        this.id = id;
-        this.name = name;
-        this.author = author;
-        this.pages = pages;
-    }
 
     public Book() {
+    }
+
+
+
+    public Book(String id, int pages, String name, String author) {
+        this.id = id;
+        this.pages = pages;
+        this.name = name;
+        this.author = author;
+    }
+
+    public Book(int pages, String name, String author) {
+        this.pages = pages;
+        this.name = name;
+        this.author = author;
     }
 
     public String getName() {
@@ -32,19 +42,29 @@ public class Book {
         this.author = author;
     }
 
-    public int getPages() {
-        return pages;
-    }
-
-    public void setPages(int pages) {
-        this.pages = pages;
-    }
-
     public String getId() {
         return id;
     }
 
     public void setId(String id) {
         this.id = id;
+    }
+
+    public Integer getPages() {
+        return pages;
+    }
+
+    public void setPages(Integer pages) {
+        this.pages = pages;
+    }
+
+    @Override
+    public String toString() {
+        return "Book{" +
+                "id='" + id + '\'' +
+                ", pages=" + pages +
+                ", name='" + name + '\'' +
+                ", author='" + author + '\'' +
+                '}';
     }
 }
